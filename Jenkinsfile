@@ -28,5 +28,4 @@ node {
 			docker.image('${JOB_NAME}').push('${BUILD_ID}')
 	   }
 	}
-
 }
