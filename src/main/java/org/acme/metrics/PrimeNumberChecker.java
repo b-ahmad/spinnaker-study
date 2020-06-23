@@ -1,5 +1,5 @@
 package org.acme.metrics;
-// test comment
+// test comment 123
 import org.eclipse.microprofile.metrics.MetricUnits;
 import org.eclipse.microprofile.metrics.annotation.Counted;
 import org.eclipse.microprofile.metrics.annotation.Gauge;
